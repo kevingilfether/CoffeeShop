@@ -11,6 +11,18 @@ header {
     width:300px;
 }
 
+#aboutTheOwner {
+    margin-bottom:64px;
+}
+
+.menuTable {
+    font-family:'Comic Sans MS';
+}
+
+.hoursTable {
+    margin-bottom:64px;
+}
+
 footer {
     font-size: 8px;
 }
